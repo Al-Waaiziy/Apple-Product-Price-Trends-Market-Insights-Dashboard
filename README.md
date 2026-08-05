@@ -163,9 +163,7 @@ Apple-Product-Price-Trends-Market-Insights-Dashboard/
 
 <img width="1363" height="690" alt="Screenshot 2026-07-31 072724" src="https://github.com/user-attachments/assets/7e756b3e-5d39-4de5-8fdd-2a876702eae1" />
 
-
 <img width="1449" height="735" alt="Screenshot 2026-07-31 072140" src="https://github.com/user-attachments/assets/c9102a6c-01b5-4ae3-b2a1-6348f8f26460" />
-
 
 ---
 
