@@ -160,10 +160,15 @@ Apple-Product-Price-Trends-Market-Insights-Dashboard/
 ---
 
 ## Dashboard Preview
-
+**Dashboard 1**
 <img width="1363" height="690" alt="Screenshot 2026-07-31 072724" src="https://github.com/user-attachments/assets/7e756b3e-5d39-4de5-8fdd-2a876702eae1" />
 
-<img width="1449" height="735" alt="Screenshot 2026-07-31 072140" src="https://github.com/user-attachments/assets/c9102a6c-01b5-4ae3-b2a1-6348f8f26460" />
+https://github.com/user-attachments/assets/6c75f811-cb9c-4d3a-8309-e72040e702b0
+
+**Dashboard 2**
+<img width="1449" height="735" alt="Screenshot 2026-07-31 072140" src="https://github.com/user-attachments/assets/679d1e44-8fa6-4274-ac2e-813a620663f1" />
+
+https://github.com/user-attachments/assets/56e54c68-dd20-45ab-9e37-4c93bfdc12da
 
 ---
 
@@ -177,14 +182,18 @@ https://github.com/Al-Waaiziy
 **LinkedIn**
 https://www.linkedin.com/in/mushab-abdullahi-danmeromu-842a77360/
 
-**Portfolio**
-https://www.datascienceportfol.io/amdanmeromu
+**Portfolio:** https://www.datascienceportfol.io/amdanmeromu
+
+**X (formerly Twitter):** https://x.com/Mushabdeen/status/2084525199513243672
+
+**Medium:** https://medium.com/@am.danmeromu
 
 ---
 
 ## Acknowledgement
 
 This project utilizes the **Apple Product Pricing Dataset** obtained from Kaggle.
+https://www.kaggle.com/datasets
 
 ---
 
